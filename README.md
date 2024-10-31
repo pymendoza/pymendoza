@@ -1,5 +1,11 @@
 ### Hi there, my name is Peregrino Mendoza! 👋 
 
+🔭 I’m currently working on Web, Cloud, and AI technologies
+
+
+
+
+
 <!--
 **pymendoza/pymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
