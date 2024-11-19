@@ -1,10 +1,12 @@
 ### Hi there, my name is Peregrino Mendoza! 👋 
 
-🔭 I’m currently working on Web, Cloud, and AI technologies
+🔭 I’m currently working on Web, Cloud, and AI technologies.
 
+👯 I’m looking to collaborate on product development utilising the latest available technology stack.
 
+---
 
-
+⚡"In the beginner's mind there are many possibilities, but in the expert's mind, there are few." - Suzuki
 
 <!--
 **pymendoza/pymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
